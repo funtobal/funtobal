@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @funtobal
 - 👀 I’m interested in cloud applications, full stack development, sql databases
-- 🌱 I’m currently learning ruby on rails, python, etc.
+- 🌱 I’m currently learning angular, python, react etc.
 - 💞️ I’m looking to collaborate on cloud application
 - 📫 You can reach me at balogunfunto@ymail.com
 
